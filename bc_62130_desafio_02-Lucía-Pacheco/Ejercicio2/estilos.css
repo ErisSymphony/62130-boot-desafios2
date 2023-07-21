@@ -1,0 +1,13 @@
+body{
+    background-color: #289688;
+    color: #fcea3e;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.imagenes{
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border: 10px solid white;
+}

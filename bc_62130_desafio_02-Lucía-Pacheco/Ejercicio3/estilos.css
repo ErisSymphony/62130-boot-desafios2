@@ -1,0 +1,33 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #607ab5;
+}
+
+h1{
+    color: #bb5397;
+    text-align: center;
+}
+
+h2{
+    color: #bb5397;
+}
+
+#logo{
+    display: flex;
+    width: 30%;
+}
+ .popresort{
+    float: right;
+    margin-left: 10px;
+    width: 500px;
+ }
+
+ .caribean{
+    float: left;
+    margin-right: 10px;
+    width: 500px;
+ }
+
+ #mickey{
+    width: 100%;
+ }

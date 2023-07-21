@@ -1,0 +1,44 @@
+body{
+    background-color: #273238;
+    color: white;
+    font-family: Arial, Gadget, sans-serif;
+}
+
+h1{
+    background-color: #ffffff;
+    color: #698593;
+    font-family: Impact, Charcoal, sans-serif;
+    text-align: center;
+    font-size: 50px;
+}
+
+h2{
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; 
+    font-stretch: expanded;
+    font-size: 30px;
+}
+
+#Imagen-Aspiradora{
+    margin-left: 30px;
+    border: 10px solid #e6cbbf;
+}
+
+#Imagen-Celulares{
+    margin-left: 30px;
+    border: 10px solid #a1c1cb;
+}
+
+#Imagen-Consolas{
+    margin-left: 30px;
+    border: 10px solid #bcbdbf;
+}
+
+#Imagen-HomeTheaters{
+    margin-left: 30px;
+    border: 10px solid #8d94a1;
+}
+
+#Imagen-Televisores{
+    margin-left: 30px;
+    border: 10px solid #bdbdaa;
+}
